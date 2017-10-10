@@ -7,4 +7,4 @@ select and paste, it gives
 ```
 ThisIsAnExample
 ```
-Especially useful for creating directories of files in terminals based on selected text
+Especially useful for creating directories or files based on the selected text
