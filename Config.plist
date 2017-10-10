@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>RemoveSpaces.png</string>
+			<key>Script Interpreter</key>
+            <string>/usr/bin/python</string>
+			<key>Shell Script File</key>
+			<string>RemoveSpaces.py</string>
+			<key>Title</key>
+			<string>RemoveSpaces</string>
+			<key>After</key>
+			<string>copy-result</string>
+			<key>Requirements</key>
+			<array>
+				<string>copy</string>
+			</array>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<key>Name</key>
+		<string>Weibing Chen</string>
+		<key>Link</key>
+		<string>https://github.com/WeibingChen17</string>
+	</array>
+	<key>Extension Description</key>
+	<string>Remove the spaces in the selected texts.</string>
+	<key>Extension Identifier</key>
+	<string>com.weibingchen.popclip.extension.RemoveSpaces</string>
+	<key>Extension Name</key>
+	<string>RemoveSpaces</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
